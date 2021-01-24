@@ -1,3 +1,1 @@
-This is a Test
-To see
-How this works
+This is a simple turtle art project.
